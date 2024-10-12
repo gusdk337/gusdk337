@@ -9,7 +9,7 @@
 &nbsp;
 
 ## 👤프로필
-<img src="https://github.com/gusdk337/gusdk337/assets/51481890/d81ba376-7b3f-46f6-9186-5f44e9cb81e9" width="200">
+<img src="https://github.com/user-attachments/assets/7422686f-1aa8-44bb-82cb-a3ea2ce1069e" width="200">
 
 - 이름: 이현아
 - 이메일: gusdk337@naver.com
